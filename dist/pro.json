@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "62ba59ee14eae485db8866fm",
+    "name": "Bananas",
+    "image": "/imgs/banana.jpg",
+    "price": 7,
+    "brand": "Msi",
+    "category": "Bulk",
+    "description": "Intel Z690\nSupports 12th Gen Intel Core Processors\nSupports Intel Pentium Gold / Celeron Processors\nDDR4\nSuppport 4K@60HZ as spcifieeld in HDMI2.1\nExened PWM heatsink and enhanced circuit design ensures even high-end processors to run in the full speed\nBuilt-In M.2 Thermal solution. Keeps M.2 SSDs safe and run faster\nThe Latest wireless solution supports MU-MIMO and BSS color technology, deliverying speeds up to 2400 MBPS\nThe lates PCIe 5.0 solution with up to 128GB/s brand width for maximum transfer speed\nBuild-in USB 3.2 Gen 2X2 port. 4X faster than usb3.2 gen 1\nDedicated LGA1700 mounting bracket is required",
+    "createdAt": "2022-06-28T01:31:26.280Z",
+    "updatedAt": "2023-03-07T14:16:07.408Z",
+    "__v": 12
+  },
+  {
+    "_id": "62ba6e78689d0263fb0bd8b9",
+    "name": "Milk",
+    "image": "/imgs/milk.jpg",
+    "price": 9,
+    "brand": "Msi",
+    "category": "Processed",
+    "description": "The much anticipated return of MSI iconic dual fan gaming Series. Combining a mix of black and gunmetal grey with a classy brushed metal backplate, This masterpiece provides you Premium design with magnificent and smooth RGB light effects on the outside. The new MSI gaming card is designed to amaze you! The 7th generation of the famous MSI twin frozr thermal design brings the most advanced technology for ultimate Cooling performance. It features the new to RX fan 3.0 combined with groundbreaking aerodynamic feats. This means stable performance and a silent experience are guaranteed thanks to low temperatures. Underneath all the metal are the multilayered electric highways that make up the printed circuit board. They connect all the vital components and allow them to communicate at Lightning speed.",
+    "createdAt": "2022-06-28T02:59:04.695Z",
+    "updatedAt": "2023-03-21T02:17:20.114Z",
+    "__v": 7
+  },
+  {
+    "_id": "62ba6ef9689d0263fb0bd8bc",
+    "name": "Beef",
+    "image": "/imgs/beef.jpg",
+    "price": 33,
+    "brand": "ViewSonic",
+    "category": "Packaged",
+    "description": "Engineered to deliver unmatched color accuracy crucial for professional applications, the ViewSonic® VP2756-2K QHD monitor displays your work with the vivid and lifelike color it deserves. With a SuperClear® IPS panel and a sleek 3-sided frameless design, the VP2756-2K provides a near-seamless viewing experience ideal for multi-monitor setups. The VP2756-2K is equipped with USB-C for single cable connectivity to deliver video, audio, and 60W of power delivery. To ensure precise, uniform color, each of our monitors is factory calibrated to deliver an amazing Delta E <2, so you can be confident what you see on screen is what your clients and customers will see as well.",
+    "createdAt": "2022-06-28T03:01:13.559Z",
+    "updatedAt": "2023-01-18T17:57:40.770Z",
+    "__v": 10
+  },
+  {
+    "_id": "62ba6ff9689d0263fb0bd8d3",
+    "name": "Apples",
+    "image": "/imgs/apples.jpg",
+    "price": 3,
+    "brand": "AMD",
+    "category": "Bulk",
+    "description": "The Radeon RX 580 is a performance-segment graphics card by AMD, launched on April 18th, 2017. Built on the 14 nm process, and based on the Polaris 20 graphics processor, in its Polaris 20 XTX variant, the card supports DirectX 12. This ensures that all modern games will run on Radeon RX 580.",
+    "createdAt": "2022-06-28T03:05:29.169Z",
+    "updatedAt": "2023-02-09T20:30:52.571Z",
+    "__v": 4
+  },
+  {
+    "_id": "62bb0211a42194aeeba9a9b5",
+    "name": "Cheese",
+    "image": "/imgs/cheese.jpg",
+    "price": 3,
+    "brand": "Msi",
+    "category": "Processed",
+    "description": "Curved Gaming display (1500R) – The best gameplay immersion.\n165Hz Refresh Rate – Real smooth gaming.\n1ms response time – eliminate screen tearing and choppy frame rates.\nNight Vision – See every detail clearly in the dark, helping you find and attack enemies before they notice.\nAMD FreeSync Premium Technology – Tear free, stutter free, fluid gaming.\nAnti-Flicker and Less Blue Light – game even longer and prevent eye strain and fatique.\nFrameless design – Ultimate gameplay experience.\n178° wide view angle.",
+    "createdAt": "2022-06-28T13:28:49.247Z",
+    "updatedAt": "2022-11-09T23:10:28.024Z",
+    "__v": 2
+  },
+  {
+    "_id": "62bb027ca42194aeeba9a9bb",
+    "name": "Ham",
+    "image": "/imgs/ham.jpg",
+    "price": 11,
+    "brand": "hp",
+    "category": "Processed",
+    "description": "Customized HP 15 Laptop\n15.6\" IPS FHD Display\nIntel Core i5-1135G7 2.40 - 4.2GHz\n16GB DDR4 RAM\nUpgraded 512GB NVMe SSD\nCard Reader\nHDMI\nWi-Fi, Bluetooth\nWindows 10 Pro S",
+    "createdAt": "2022-06-28T13:30:36.882Z",
+    "updatedAt": "2023-03-14T08:25:04.952Z",
+    "__v": 4
+  },
+  {
+    "_id": "62bb03d4a42194aeeba9a9ce",
+    "name": "Chicken",
+    "image": "/imgs/chicken.jpg",
+    "price": 20,
+    "brand": "Apple",
+    "category": "Packaged",
+    "description": "AirPods Pro is a magic like you've never heard of. The customizable silicone tips fit your ears comfortably to create a perfect seal, working with Active Noise Cancellation to immerse you into rich, powerful sound without background noise. To hear what's happening around you, just switch to Transparency mode. A wireless charging case adds hours of battery life for long-lasting listening on the go.",
+    "createdAt": "2022-06-28T13:36:20.313Z",
+    "updatedAt": "2022-12-16T00:40:15.165Z",
+    "__v": 5
+  },
+  {
+    "_id": "62bb0436a42194aeeba9a9d1",
+    "name": "Frozen Pizza",
+    "image": "/imgs/pizza.jpg",
+    "price": 15,
+    "brand": "Samsung",
+    "category": "Processed",
+    "description": "Samsung Galaxy S20+ Plus 5G Snapdragon 865 256GB 12GB RAM SM-G986N Unlocked - Cosmic GreyCondition: Brand New\nSnapdragon processor\n12 months warranty by seller\n1 Nano-SIM slot + 1 MicroSD card slot\nSupport Nano-SIM only, no eSIM\nKorea unlocked version, can use all over the world\nExpress shipping, no additional customs fees",
+    "createdAt": "2022-06-28T13:37:58.036Z",
+    "updatedAt": "2023-03-08T18:41:39.402Z",
+    "__v": 14
+  },
+  {
+    "_id": "62bb04dba42194aeeba9a9e0",
+    "name": "Eggs",
+    "image": "/imgs/eggs.jpg",
+    "price": 10,
+    "brand": "Bulk",
+    "category": "Bulk",
+    "description": "Display: 6.7 inches Super Retina XDR OLED, Scratch-resistant ceramic glass, oleophobic coating - Resoultion: 1284 x 2778 pixels\nMemory: 128GB 6GB RAM\nQuad: 12 MP + 12 MP + 12 MP + TOF 3D LiDAR scanner w/ Dual-LED dual-tone flash, HDR (photo/panorama) -- Selfie Camera: Dual\n12MP + SL 3D, (depth/biometrics sensor)\nPlatform: iOS 14.1 -- Apple A14 Bionic -- Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm) -- Apple GPU (4-core graphics)\nBattery: Li-Ion 3687 mAh, non-removable - Qi fast wireless charging 15W",
+    "createdAt": "2022-06-28T13:40:43.099Z",
+    "updatedAt": "2023-01-18T21:41:51.363Z",
+    "__v": 3
+  }
+]
