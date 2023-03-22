@@ -18,10 +18,11 @@ import data from "../../public/pro.json";
 
 const Products = () => {
   const params = useParams();
-  const { categories, brands, page, pages } = useAppSelector(
+  const { brands, page, pages } = useAppSelector(
     (state) => state.productFilter
   );
   let products = JSON.parse(JSON.stringify(data));
+  let categories = ["Processed", "Packaged", "Bulk"];
   const dispatch = useAppDispatch();
   const [brand, setBrand] = useState<string>("");
   const [category, setCategory] = useState<string>("");
